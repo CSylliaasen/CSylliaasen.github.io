@@ -1,0 +1,14 @@
+body{background-image: salmon;}
+h1{
+    color: greenyellow;
+    font-size: 500px;
+    text-align: center;
+    text-decoration: underline;
+
+    }
+h2{
+    color: blueviolet;
+    font: size 10px;
+    text-align: right;
+
+}
