@@ -1,39 +1,9 @@
-h1{ 
-    color:firebrick;
-    font-size: 50px;
+img {
+    image-orientation: from-image;
+    width: 300px;
 }
-h2
-    color: grey;
-    font-size: 40px;
-}
-.class1{
-    color: lightcyan;
-}
-.class2{
-    color: navy;
-}
-li{
-    color: maroon;
-    font-size: medium;
-}
-img{
-    size: 100px;
-}
-.comic{
-    color: cornflowerblue;
-    font-family: "Comic Sans MS", "Comic Sans", cursive;
-}
-.bold{
-    font-weight: bolder;
-}
-.p2{
-    color: darkgrey;
-    font-size: smaller;
-    text-align: left;
-    text-shadow: 5px 5px 5px darkorange;
-}
-body{
-    background-image: url("nickcagepage.jpg");
-    background-size: 100px;
-    background-repeat: repeat;
-}
+
+.carousel {
+    height:350px;
+    width: 350px;
+  }
